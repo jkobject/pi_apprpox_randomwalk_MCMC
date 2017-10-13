@@ -1,7 +1,7 @@
 # pi_apprpox_randomwalk_MCMC
 an approximation of pi using a random walk on a inscripted circle
 
-You can find here two files which implements a random walk using the simplest MCMC Metropolis algorithm on a square. 
+You can find here two files which implements a random walk using the simplest MCMC algorithm on a square. 
 The number of steps inside and outisde of the circle are comptabilised and divided to approximate pi.
 
 The first implementation is a bounded square whereas the second is the non euclidian variety "torus". 
